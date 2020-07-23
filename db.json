@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "This is a fake REST server and API."
+    },
+    {
+      "id": 2,
+      "title": "I like turtles."
+    }
+  ],
+  "users": {
+    "1zd345sfkd00m": {
+      "name": "Jin Kuwata",
+      "username": "jmk2142",
+      "hobbies": ["code", "cooking", "class"]
+    },
+    "8d7gh583mjis": {
+      "name": "Dotty McRabbit",
+      "username": "dmc2020",
+      "hobbies": ["hopping", "carrots", "other rabbit things"]
+    }
+  }
+}
